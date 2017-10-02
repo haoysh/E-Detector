@@ -8,5 +8,5 @@ Problems:
   3. Predict happiness more than other emotions
   
 Future Options:  
-  1. Implement E-detector on mobiles, the smartphone's camera could detect the facial change in users that could be symptoms of disorders.
+  1. Implement E-detector on mobiles, the smartphone's camera could detect the facial change in users that could be symptoms of disorders.
   2. Song Recommender: Device detects emotion of user and recommend the best songs for him or her.
